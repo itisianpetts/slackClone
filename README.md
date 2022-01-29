@@ -2,11 +2,9 @@
 
  
 ##### Frontend: React, Redux, MaterialUI & Styled Components
-- Deployed to https://slack-clone-ian-petts.web.app
-
+- Deployed via Firebase to https://slack-clone-ian-petts.web.app
 
 ##### Backend: Firebase with Google Auth
-- Deployed via Firebase
 <br />
 
 
